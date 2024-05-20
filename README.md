@@ -1,9 +1,10 @@
 
 
-
-
-
-
+![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/1.jpg)
+![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/2.jpg)
+![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/3.jpg)
+![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/4.jpg)
+![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/5.jpg)
 
 
 
