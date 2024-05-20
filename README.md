@@ -1,6 +1,6 @@
 
 
-![image](![image](http://url.to/image.png "Title" {width=40px height=200px})
+![image](![image]([http://url.to/image.png](https://github.com/efwergethryh/TSC/edit/main/screenshots/1.jpg) "Title" {width=40px height=200px})
  "Title" {width=40px height=400px})
 
 
