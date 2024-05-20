@@ -1,7 +1,7 @@
 
 
 
-![screenshot](1.png)
+![image](https://github.com/efwergethryh/TSC/blob/main/screenshots/1.jpg = 250x250)
 
 
 
