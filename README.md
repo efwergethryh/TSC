@@ -1,5 +1,5 @@
 
-<img src="https://github.com/efwergethryh/TSC/blob/main/screenshots/1.jpg" width="100" height="200">
+<img src="https://github.com/efwergethryh/TSC/blob/main/screenshots/1.jpg" width="150" height="300">
 
 
 
