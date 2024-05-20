@@ -1,7 +1,7 @@
 
-![alt text](https://github.com/efwergethryh/TSC/edit/main/screenshots/1.jpg)
 
 
+![image](https://github.com/efwergethryh/TSC/edit/main/screenshots/1.jpg)
 
 
 
