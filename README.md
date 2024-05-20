@@ -1,7 +1,4 @@
-
-
-
-![image](screenshots/1.jpg = 250x250)
+![go to the screenshots folder](screenshots/1.png)
 
 
 
