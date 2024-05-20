@@ -1,11 +1,6 @@
 
 
-![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/1.jpg)
-![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/2.jpg)
-![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/3.jpg)
-![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/4.jpg)
-![alt text](https://github.com/efwergethryh/TSC/blob/main/screenshots/5.jpg)
-
+<a href="url"><img src="[http://url.to/image.png](https://github.com/efwergethryh/TSC/edit/main/screenshots/1.jpg)" align="left" height="48" width="48" ></a>
 
 
 
