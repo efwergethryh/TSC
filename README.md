@@ -1,4 +1,4 @@
-![go to the screenshots folder](https://github.com/efwergethryh/TSC/blob/main/screenshots/1.jpg {width=48, height=48})
+![go to the screenshots folder](https://github.com/efwergethryh/TSC/blob/main/screenshots/1.jpg = 250x250)
 
 
 
