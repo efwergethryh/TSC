@@ -1,6 +1,6 @@
 
 
-<a href="url"><img src="[http://url.to/image.png](https://github.com/efwergethryh/TSC/edit/main/screenshots/1.jpg)" align="left" height="48" width="48" ></a>
+![image]([http://url.to/image.png](http://url.to/image.png](https://github.com/efwergethryh/TSC/edit/main/screenshots/1.jpg) = 250x250)
 
 
 
