@@ -1,4 +1,4 @@
-![go to the screenshots folder](screenshots/1.png)
+![go to the screenshots folder](/screenshots/1.png)
 
 
 
